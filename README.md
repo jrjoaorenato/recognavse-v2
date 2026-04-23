@@ -1,4 +1,4 @@
-# **RecognAVSE-V2: An Improved Cross-Attention-Based Audio-Visual Speech Enhancement Approach**
+# **RecognAVSE-2**
 
 ## **Overview**
 RecognAVSE-V2 is an audio-visual speech enhancement (AVSE) model that builds upon RecognAVSE. It introduces an attention mechanism to improve temporal modeling while reducing computational costs. The model aligns audio and visual features to enhance speech intelligibility in noisy environments.
